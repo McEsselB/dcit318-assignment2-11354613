@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\bin\Debug\net9.0\InheritanceApp.exe
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\bin\Debug\net9.0\InheritanceApp.deps.json
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\bin\Debug\net9.0\InheritanceApp.runtimeconfig.json
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\bin\Debug\net9.0\InheritanceApp.dll
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\bin\Debug\net9.0\InheritanceApp.pdb
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\obj\Debug\net9.0\InheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\obj\Debug\net9.0\InheritanceApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\obj\Debug\net9.0\InheritanceApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\obj\Debug\net9.0\InheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\obj\Debug\net9.0\InheritanceApp.sourcelink.json
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\obj\Debug\net9.0\InheritanceApp.dll
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\obj\Debug\net9.0\refint\InheritanceApp.dll
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\obj\Debug\net9.0\InheritanceApp.pdb
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\obj\Debug\net9.0\InheritanceApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\lv 300 assignments\2nd Sem\DCIT 318\dcit318-assignment2-11354613\InheritanceApp\obj\Debug\net9.0\ref\InheritanceApp.dll
